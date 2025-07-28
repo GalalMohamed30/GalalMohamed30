@@ -52,5 +52,5 @@ Consuming a public movie API to explore latest films
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/galal-mohamed-)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:galal303mohamed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/galal-mohamed-) [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:galal303mohamed@gmail.com)
+
