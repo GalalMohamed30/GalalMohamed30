@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Galal Mohamed</h1>
+<h3 align="center">Frontend Developer | React.js Enthusiast | UI/UX Explorer</h3>
 
-<!--
-**GalalMohamed30/GalalMohamed30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** with a strong foundation in modern web technologies and a love for building responsive, accessible, and user-focused interfaces.
 
-Here are some ideas to get you started:
+I specialize in building interactive web apps using:
+**React.js**, **JavaScript**, **Tailwind CSS**, **Next.js**, and **Bootstrap** – always writing clean, scalable code with performance in mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning creative designs into smooth and functional digital experiences.
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GalalMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="GalalMohamed" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 👨‍💻 Frontend Developer with a strong eye for UI/UX.
+- 📚 Currently learning **Next.js** and **Framer Motion**.
+- 🧩 Focused on building clean, scalable, and maintainable frontend code.
+- 📫 Reach me at: **galal.frontend@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### E-Commerce App  
+React + Tailwind | Fully responsive store with shopping cart  
+🔗 [Live Demo](https://your-live-demo-link.com) • 🔗 [Code](https://github.com/GalalMohamed2003/ecommerce-app)
+
+### Portfolio Website  
+Showcasing skills, experience, and projects  
+🔗 [Live Demo](https://your-portfolio-link.com) • 🔗 [Code](https://github.com/GalalMohamed2003/portfolio)
+
+### Movie App  
+Consuming a public movie API to explore latest films  
+🔗 [Live Demo](https://your-movie-app-link.com) • 🔗 [Code](https://github.com/GalalMohamed2003/movie-app)
+
+> ✳️ (استبدل اللينكات فوق بلينكات مشاريعك الحقيقية، أو ابعتهالي أضيفها لك)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/galal-mohamed)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:galal.frontend@gmail.com)
