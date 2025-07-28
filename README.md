@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Galal Mohamed</h1>
 <h3 align="center">Frontend Developer | React.js Enthusiast | UI/UX Explorer</h3>
 
-I'm a passionate **Frontend Developer** with a strong foundation in modern web technologies and a love for building responsive, accessible, and user-focused interfaces.
+I'm a passionate Frontend Developer with a strong foundation in modern web technologies and a love for building responsive, accessible, and user-focused interfaces.
 
-I specialize in building interactive web apps using:
-**React.js**, **JavaScript**, **Tailwind CSS**, **Next.js**, and **Bootstrap** – always writing clean, scalable code with performance in mind.
+I specialize in building interactive web apps using: React.js, JavaScript, Tailwind CSS, Next.js, and Bootstrap – always writing clean, scalable code with performance in mind.
 
 I enjoy turning creative designs into smooth and functional digital experiences.
 
+I'm constantly learning and contributing to projects that challenge my skills and push me to grow as a developer.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GalalMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="GalalMohamed" />
