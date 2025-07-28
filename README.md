@@ -20,7 +20,7 @@ I enjoy turning creative designs into smooth and functional digital experiences.
 - 👨‍💻 Frontend Developer with a strong eye for UI/UX.
 - 📚 Currently learning **Next.js** and **Framer Motion**.
 - 🧩 Focused on building clean, scalable, and maintainable frontend code.
-- 📫 Reach me at: **galal.frontend@gmail.com**
+- 📫 Reach me at: **galal303mohamed@gmail.com**
 
 ---
 
@@ -28,11 +28,6 @@ I enjoy turning creative designs into smooth and functional digital experiences.
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" />
 </p>
 
 ---
@@ -51,11 +46,11 @@ Showcasing skills, experience, and projects
 Consuming a public movie API to explore latest films  
 🔗 [Live Demo](https://your-movie-app-link.com) • 🔗 [Code](https://github.com/GalalMohamed2003/movie-app)
 
-> ✳️ (استبدل اللينكات فوق بلينكات مشاريعك الحقيقية، أو ابعتهالي أضيفها لك)
+
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/galal-mohamed)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:galal.frontend@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/galal-mohamed-)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:galal303mohamed@gmail.com)
